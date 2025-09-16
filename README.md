@@ -17,5 +17,8 @@
       <li>Wearing New Clothes: People dress in new, festive attire to mark the joyous occasion.</li>
       <li>Fireworks: In many places, fireworks are set off to celebrate</li>
     </ol>
+
+
+    <p> photo credit: https://ideasatdom.wustl.edu/happy-diwali/</p> 
     </body>
 </html>
